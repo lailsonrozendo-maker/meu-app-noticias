@@ -1,14 +1,9 @@
 {
   "noticias": [
     {
-      "titulo": "Fala Leno agora vou ganhar dinheir. kkkk",
-      "texto": "A nova ponte sobre o rio foi aberta ao tráfego hoje.",
-      "imagem": "https://www.cartacapital.com.br/wp-content/uploads/2023/06/lula-finlandia_mcamgo_abr_01062023-2-1024x768.jpg"
-    },
-    {
-      "titulo": "Evento cultural começa amanhã",
-      "texto": "Festival de música e arte terá início nesta sexta-feira.",
-      "imagem": "https://www.cartacapital.com.br/wp-content/uploads/2023/06/lula-finlandia_mcamgo_abr_01062023-2-1024x768.jpg"
+      "titulo": "Imagem de Teste",
+      "texto": "Essa imagem é carregada da Wikipedia e deve funcionar no seu app.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sample_Sun_Image.jpg/640px-Sample_Sun_Image.jpg"
     }
   ]
 }
