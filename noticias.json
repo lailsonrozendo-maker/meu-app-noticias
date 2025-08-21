@@ -1,9 +1,12 @@
 {
-  "Paraiba News": [
+  "Hoje Vai Chover?": [
     {
-      "Morais nega a Prisão": "https://github.com/lailsonrozendo-maker/meu-app-noticias/commit/f153d4a73a78fe8020aabfe9cec6a3309935da88"
-      "texto": "Essa imagem é carregada da Wikipedia e deve funcionar no seu app.",
-      "imagem": "https://i.imgur.com/OdL0XPt.png"
+      "titulo": "Notícia 1",
+      "texto": "Texto da notícia 1"
+    },
+    {
+      "titulo": "Notícia 2",
+      "texto": "Texto da notícia 2"
     }
   ]
 }
