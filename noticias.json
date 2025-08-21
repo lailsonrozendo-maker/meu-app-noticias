@@ -1,9 +1,9 @@
 {
   "noticias": [
     {
-      "titulo": "Imagem de Teste",
+      "titulo": "Imagem de Teste2",
       "texto": "Essa imagem é carregada da Wikipedia e deve funcionar no seu app.",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sample_Sun_Image.jpg/640px-Sample_Sun_Image.jpg"
+      "imagem": "https://i.imgur.com/OdL0XPt.png"
     }
   ]
 }
