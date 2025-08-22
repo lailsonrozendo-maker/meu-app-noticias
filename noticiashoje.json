@@ -1,12 +1,6 @@
 {
-  "Hoje Vai Chover?": [
-    {
-      "titulo": "Notícia 1",
-      "texto": "Texto da notícia 1"
-    },
-    {
-      "titulo": "Notícia 2",
-      "texto": "Texto da notícia 2"
-    }
+  "noticias": [
+    { "Chuva derruba Barreiras": "Título 1", "Um Barreira caiu no municipio": "Texto da notícia 1" },
+    { "titulo": "Título 2", "texto": "Texto da notícia 2" }
   ]
 }
